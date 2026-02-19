@@ -24,26 +24,37 @@ Eager to apply my skills, adaptability, and problem-solving abilities in a dynam
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- C
-- C++
-- Java
-- Python
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
+</div>
+
+### 🌐 Front-End Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+</div>
+
+### 🎨 Design Tools
+- Canva
+- Adobe Photoshop
 
 ### 📚 Core Concepts
 - Data Structures & Algorithms
 - Problem Solving
-
-### 🌐 Front-End Development
-- HTML
-- CSS
-- JavaScript
-
-### 🗄️ Databases
-- MySQL
-
-### 🎨 Tools
-- Canva
-- Adobe Photoshop
 
 ---
 
@@ -100,10 +111,21 @@ Eager to apply my skills, adaptability, and problem-solving abilities in a dynam
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vincyyy07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincyyy07&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vincyyy07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=Vincyyy07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -116,12 +138,29 @@ Eager to apply my skills, adaptability, and problem-solving abilities in a dynam
 
 ---
 
+## 💡 Fun Fact
+
+I believe in the power of continuous learning and turning challenges into opportunities. When I'm not coding, you'll find me exploring new tech trends or solving puzzles!
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always open to discussing innovative ideas, collaborating on projects, or sharing knowledge. Feel free to reach out if you're interested in front-end development, problem-solving, or tech exploration!
+
+---
+
 ## 📫 Connect With Me
 
-- 📧 Email: degapatirajvincy@gmail.com
-- 📞 Phone: +91 6305575411
-- 💼 LinkedIn: Add your LinkedIn link here
-- 💻 GitHub: Add your GitHub link here
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=degapatirajvincy@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  <img src="https://img.shields.io/static/v1?message=Phone&logo=phone&label=+91%206305575411&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="phone logo" />
+  <img src="https://img.shields.io/github/followers/Vincyyy07?label=Follow&style=social" height="35" alt="github followers" />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vincyyy07.Vincyyy07&" />
+</div>
 
 ---
 
