@@ -111,21 +111,11 @@ Eager to apply my skills, adaptability, and problem-solving abilities in a dynam
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vincyyy07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vincyyy07&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vincyyy07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=Vincyyy07&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vincyyy07/Vincyyy07/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
