@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech Computer Science & Engineering student (2023–Present)
 - 📍 From Pithapuram, India
-- 📊 CGPA: 8.43
+- 📊 CGPA: 8.52
 - 🔭 Currently strengthening **Data Structures & Algorithms**
 - 🌱 Exploring new technologies and building real-world projects
 - ⚡ Passionate about continuous learning and innovation
@@ -62,7 +62,6 @@ Eager to apply my skills, adaptability, and problem-solving abilities in a dynam
 
 - Currently exploring various technologies
 - Working on strengthening problem-solving skills
-- Planning to build a mini-project using IoT
 - Focused on creating impactful, real-world solutions
 
 ---
