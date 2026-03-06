@@ -87,7 +87,7 @@ Seeking opportunities to leverage my technical skills and passion for innovation
 
 ---
 
-## 🤝 Soft Skills Matrix
+## 🤝 Soft Skills 
 <div align="center">
   <table>
     <tr>
