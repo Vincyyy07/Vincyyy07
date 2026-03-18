@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <b>📍 Pithapuram, India</b> &nbsp;•&nbsp; <b>📞 +91 6305575411</b> &nbsp;•&nbsp; <b>🎓 B.Tech CSE </b>
+  <b>📍 Pithapuram, India</b> &nbsp;•&nbsp;<b>🎓 B.Tech CSE </b>
 </div>
 
 ---
